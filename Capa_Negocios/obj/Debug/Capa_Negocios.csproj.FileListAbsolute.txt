@@ -1,0 +1,11 @@
+C:\Users\USER\OneDrive\Desktop\Programcion 2\Sistema_Registro_Visitas\Capa_Negocios\bin\Debug\Capa_Negocios.dll
+C:\Users\USER\OneDrive\Desktop\Programcion 2\Sistema_Registro_Visitas\Capa_Negocios\bin\Debug\Capa_Negocios.pdb
+C:\Users\USER\OneDrive\Desktop\Programcion 2\Sistema_Registro_Visitas\Capa_Negocios\bin\Debug\Capa_Dato.dll
+C:\Users\USER\OneDrive\Desktop\Programcion 2\Sistema_Registro_Visitas\Capa_Negocios\bin\Debug\Capa_Entidades.dll
+C:\Users\USER\OneDrive\Desktop\Programcion 2\Sistema_Registro_Visitas\Capa_Negocios\bin\Debug\Capa_Dato.pdb
+C:\Users\USER\OneDrive\Desktop\Programcion 2\Sistema_Registro_Visitas\Capa_Negocios\bin\Debug\Capa_Entidades.pdb
+C:\Users\USER\OneDrive\Desktop\Programcion 2\Sistema_Registro_Visitas\Capa_Negocios\obj\Debug\Capa_Negocios.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\Programcion 2\Sistema_Registro_Visitas\Capa_Negocios\obj\Debug\Capa_Negocios.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\Programcion 2\Sistema_Registro_Visitas\Capa_Negocios\obj\Debug\Capa_Negocios.csproj.CopyComplete
+C:\Users\USER\OneDrive\Desktop\Programcion 2\Sistema_Registro_Visitas\Capa_Negocios\obj\Debug\Capa_Negocios.dll
+C:\Users\USER\OneDrive\Desktop\Programcion 2\Sistema_Registro_Visitas\Capa_Negocios\obj\Debug\Capa_Negocios.pdb

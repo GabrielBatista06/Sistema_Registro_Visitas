@@ -1,0 +1,6 @@
+C:\Users\USER\OneDrive\Desktop\Programcion 2\Sistema_Registro_Visitas\Capa_Entidades\bin\Debug\Capa_Entidades.dll
+C:\Users\USER\OneDrive\Desktop\Programcion 2\Sistema_Registro_Visitas\Capa_Entidades\bin\Debug\Capa_Entidades.pdb
+C:\Users\USER\OneDrive\Desktop\Programcion 2\Sistema_Registro_Visitas\Capa_Entidades\obj\Debug\Capa_Entidades.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\Programcion 2\Sistema_Registro_Visitas\Capa_Entidades\obj\Debug\Capa_Entidades.dll
+C:\Users\USER\OneDrive\Desktop\Programcion 2\Sistema_Registro_Visitas\Capa_Entidades\obj\Debug\Capa_Entidades.pdb
+C:\Users\USER\OneDrive\Desktop\Programcion 2\Sistema_Registro_Visitas\Capa_Entidades\obj\Debug\Capa_Entidades.csprojAssemblyReference.cache
